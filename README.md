@@ -75,11 +75,10 @@ The GUI window will open, displaying the quiz interface.
 
 ## Quiz Interface
 Example of a question displayed in the GUI, with buttons to submit your answer.
+
+
 ![image](https://github.com/user-attachments/assets/e6e0bca1-2d11-4022-b624-5aa06bafcdb2)
+![image](https://github.com/user-attachments/assets/5d547fe1-17a5-4b84-acab-ad9e11d12e45)
 
 
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
